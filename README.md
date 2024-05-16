@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AlarkiusJay
 - 👀 My current passions are for writing stories/worldbuilding
 - 🌱 I’m just a GitHub Wanderer
+- 🌳 Minecrafter
 
 
 <!---
