@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlarkiusJay
 - 👀 My current passions are for writing stories/worldbuilding
-- 🌱 I’m just a GitHub Wanderer
-- 🌳 Minecrafter. Starting my journey as newbie mod maker / resource pack maker. 
+- 🌱 I’m just a GitHub Wanderer. Coder for fun.
+- 🌳 Minecrafter. Starting my journey as newbie mod maker / resource pack maker / mod maker
 
 
 <!---
