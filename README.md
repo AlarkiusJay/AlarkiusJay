@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlarkiusJay
+- 👋 Hi, I’m Alarkius Elvya Jay (AlarkiusEJ)
 - 👀 My current passions are for writing stories/worldbuilding
 - 🌱 I’m just a GitHub Wanderer. Coder for fun.
 - 🌳 Minecrafter. Starting my journey as newbie mod maker / resource pack maker / mod maker
