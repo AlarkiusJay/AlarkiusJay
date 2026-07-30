@@ -1,3 +1,4 @@
+## About Alarkius Elvya Jay 
 - 👋 Hi, I’m Alarkius Elvya Jay (AlarkiusEJ)
 - 👀 My current passions are for writing stories/worldbuilding
 
