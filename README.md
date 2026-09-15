@@ -29,3 +29,4 @@ My Websites:
 - https://www.naiseikaiuniverse.com/
 
 ---
+Support me with my [Ko-Fi](https://ko-fi.com/alarkiusej) if you wanna see more cool stuff. Your name will be credited for free in my apps' contributions!
