@@ -18,7 +18,9 @@ Dislikes:
 ---
 
 **My Projects And Stuff**
+
 (All Creative Control Direction (Functions & Features) is made by Me. Claude Code simply helps with the logic and structure.)
+
 - [AlariaEJ-Minecraft](https://github.com/AlariaEJ-Minecraft). Stuff I make. Random ideas. Owner of Blockified and Gleamless Glass
 - [The Alarklyn Zone](https://github.com/TheAlarklynZone). Apps I make myself. Owner of Quillosofi, ARGIS, and a few others
 - [AlarklynDB](https://github.com/AlarklynDB). A repo for my personal websites. Don't steal my stuff here or I'll take drastic measures!
