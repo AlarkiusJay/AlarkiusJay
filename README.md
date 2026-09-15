@@ -17,7 +17,7 @@ Dislikes:
 
 ---
 
-**My Projects And Stuff**
+### **My Projects And Stuff**
 
 (All Creative Control Direction (Functions & Features) is made by Me. Claude Code simply helps with the logic and structure.)
 
