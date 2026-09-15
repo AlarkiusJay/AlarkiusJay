@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Alarkius Elvya Jay (AlarkiusEJ)
 - 👀 My current passions are for writing stories/worldbuilding
 - 🌱 I’m just a GitHub Wanderer. Coder for fun.
-- 🌳 Minecrafter. Starting my journey as newbie mod maker / resource pack maker / mod maker
+- 🌳 Minecrafter. Starting my journey as newbie mod maker / resource pack maker 
 
 Hobbies:
 - I play Minecraft
@@ -27,3 +27,5 @@ My Websites:
 - https://www.alarkiusej.com/
 - https://www.thehibrythiansaga.com/
 - https://www.naiseikaiuniverse.com/
+
+---
