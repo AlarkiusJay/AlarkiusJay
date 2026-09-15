@@ -21,7 +21,7 @@ Dislikes:
 - [The Alarklyn Zone](https://github.com/TheAlarklynZone). Apps I make myself. Owner of Quillosofi and MultiRPCustomizer 
 - [AlarklynDB](https://github.com/AlarklynDB). A repo for my personal websites. Don't steal my stuff here or I'll fake drastic measures!
 - [Concept Browser](https://github.com/QuogolBrowser). A concept pitch for a browser. Maybe.
-- [Stuff Made for Discord](https://github.com/AlarklynCord)
+- [Stuff Made for Discord](https://github.com/AlarklynCord). A Repo for BetterDiscord & Vencord Compability
 
 My Websites:
 - https://www.alarkiusej.com/
