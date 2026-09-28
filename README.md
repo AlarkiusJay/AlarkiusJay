@@ -9,7 +9,7 @@ Hobbies:
 - I play Genshin Impact 
 - Artist. I draw stuff ig 
 - Anime and Games
-- I make music (https://YouTube.com/@AlarkiusJay)  
+- I make music (https://YouTube.com/@Alarklyus)  
 
 Dislikes:
 - I despise GenAI (art, music, writing generative models).  
