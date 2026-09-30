@@ -32,6 +32,11 @@ My Websites:
 - https://www.alarkiusej.com/
 - https://www.thehibrythiansaga.com/
 - https://www.naiseikaiuniverse.com/
+- https://quillosofi.com/
+- https://quogol.com
+
+My Webgame:
+- https://fl80r.party/hub/
 
 ---
 Support me with my [Ko-Fi](https://ko-fi.com/alarkiusej) if you wanna see more cool stuff. Your name will be credited for free in my apps' contributions!
