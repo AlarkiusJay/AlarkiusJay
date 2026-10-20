@@ -28,6 +28,8 @@ Dislikes:
 - [AlarklynDB](https://github.com/AlarklynDB). A repo for my personal websites. Don't steal my stuff here or I'll take drastic measures!
 - [Concept Browser](https://github.com/QuogolBrowser). A concept pitch for a browser. Maybe.
 
+I also have interactive media. Mostly procedural generation with human guide. I never let it touch art unless it is for placeholders!
+
 ---
 
 My Websites:
