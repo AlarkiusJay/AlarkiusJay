@@ -15,6 +15,8 @@ Dislikes:
 - I despise GenAI (art, music, writing generative models).  
 - People who steal, plagarize, or don't credit.
 
+(I think Coding AI Agents are cool if used correctly)
+
 ---
 
 ### **My Projects And Stuff**
